@@ -1,0 +1,22 @@
+{
+  "name": "pa-em-study",
+  "version": "1.0.0",
+  "description": "Source-grounded PA emergency medicine practice with portable Student Profiles.",
+  "author": {
+    "name": "Local educational project"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "PA EM Study",
+    "shortDescription": "One question at a time. Evidence-based study feedback.",
+    "longDescription": "Adaptive educational practice based on the AI Practice and Self-Assessment Guide, with course-source precedence, reasoning capture, and portable profiles.",
+    "developerName": "Local educational project",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": [
+      "Start PA emergency medicine practice.",
+      "Quiz me using my attached lecture notes.",
+      "Import my Student Profile and start a new session."
+    ]
+  }
+}

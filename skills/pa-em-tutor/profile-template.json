@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0",
+  "profile_id": "replace-with-new-unique-id-on-first-use",
+  "student_alias": null,
+  "updated_at": null,
+  "sessions": [],
+  "sources": [],
+  "attempts": [],
+  "misconceptions": [],
+  "legacy_summaries": [],
+  "coverage": {
+    "complete": true,
+    "missing_periods": [],
+    "notes": []
+  }
+}
